@@ -7,14 +7,6 @@
   Mock Interview Simulator with AI-Powered Feedback
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/AJAYDHA27250016">
-    <img src="https://img.shields.io/twitter/follow/AJAYDHA27250016_me?style=flat&label=Follow&logo=twitter&color=0bf&logoColor=fff" alt="Ajay's follower count" />
-  </a>
-  <a href="https://github.com/Ajay-Dhangar/ai-mock-interview">
-    <img src="https://img.shields.io/github/stars/Ajay-Dhangar/ai-mock-interview?label=Tameyer41%2Fliftoff" alt="Liftoff repo star count" />
-  </a>
-</p>
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
@@ -26,7 +18,7 @@
 
 ## Introduction
 
-Liftoff is an interview preparation tool that provides AI feedback on your mock interviews.
+this  is an interview preparation tool that provides AI feedback on your mock interviews.
 
 ## One-click Deploy
 
@@ -80,6 +72,3 @@ Liftoff uses FFmpeg to transcode the raw video into MP3. Chrome, Safari, and Fir
 
 We then send the audio directly to be transcribed by OpenAI's Whisper endpoint, and then stream feedback from the edge using OpenAI's gpt-3.5-turbo.
 
-## Author
-
-- Ajay-Dhangar ([@AJAYDHA27250016](https://twitter.com/AJAYDHA27250016))
